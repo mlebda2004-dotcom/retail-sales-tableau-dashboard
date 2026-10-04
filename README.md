@@ -2,7 +2,7 @@
 
 An interactive **Tableau** dashboard analyzing retail sales performance — revenue, profit, product performance, customer demographics, and regional distribution — built from a raw retail sales dataset.
 
-![Summary Dashboard](summary-dashboard.png)
+![Summary Dashboard](Summary Dashboard.png)
 
 ---
 
